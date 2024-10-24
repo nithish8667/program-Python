@@ -1,0 +1,7 @@
+1. write a python program to find a row wise sum from the given 2D array.
+2. write a python program to find a column wise sum from the given 2D array.
+3. find the row wise count from prime number in the 2D array.
+4. find the column wise maximum repeated elements from the given 2D array.
+5. to perform row wise reverse.
+6. to perform column wise reverse.
+7. to perform row wise matrix.
